@@ -1,8 +1,8 @@
-# uxui_boilerplate-os-reactive
+# Repository boilerplate for OutSystems frontend development
 
-Used for demo purposes of uDX's boilerplate
+Bolierplate to spin up development of OutSystems reactive projects. This structure allows several developers to work on each of the frontend components involved in building an OutSystems theme.
 
-## Instalation
+## :tw-2139: Instalation
 
 Install project dependencies
 
@@ -10,13 +10,12 @@ Install project dependencies
   npm install
 ```
 
-## Run project
+## :tw-25b6: Run project
 
 ```bash
   npm start
 ```
 
-## Authors
+## Credits
 
-- Cristóvão Antunes
-- Miguel Júlio
+Files based on https://github.com/cristova-antunes/boilerplate-css-os/ work. All credits to them.
