@@ -1,7 +1,7 @@
 {
-  "name": "uxui_boilerplate-os-reactive",
-  "version": "1.0.0",
-  "description": "Repositório boilerplate para novos projetos OS Reactive",
+  "name": "boilerplate-os-reactive",
+  "version": "1.0.1",
+  "description": "Repository boilerplate for OutSystems frontend development",
   "main": "index.js",
   "private": true,
   "type": "module",
@@ -38,7 +38,7 @@
     "stylelint": "^14.5.3",
     "stylelint-scss": "^4.1.0"
   },
-  "author": "uDX Team | KinetIT",
+  "author": "Luís Alves",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.2"
