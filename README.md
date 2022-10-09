@@ -2,7 +2,7 @@
 
 Bolierplate to spin up development of OutSystems reactive projects. This structure allows several developers to work on each of the frontend components involved in building an OutSystems theme.
 
-## :tw-2139: Instalation
+## ℹ️ Instalation
 
 Install project dependencies
 
@@ -10,7 +10,7 @@ Install project dependencies
   npm install
 ```
 
-## :tw-25b6: Run project
+## ▶️ Run project
 
 ```bash
   npm start
