@@ -1,6 +1,6 @@
 {
   "name": "boilerplate-os-reactive",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Repository boilerplate for OutSystems frontend development",
   "main": "server.js",
   "private": true,
